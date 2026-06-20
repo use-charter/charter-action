@@ -1,4 +1,4 @@
-name: "Charter"
+name: "Charter AI-Agent Readiness"
 description: "Scan a repository for AI-agent readiness and upload SARIF to GitHub Code Scanning."
 author: "use-charter"
 branding:
